@@ -3,7 +3,6 @@
   <br/>
   <h3><b>Matric-Webapp</b></h3>
 </div>
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Vet Clinic
 
