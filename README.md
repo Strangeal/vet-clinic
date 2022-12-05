@@ -1,7 +1,38 @@
+<div align="center">
+  <img src="./murple_logo.png" alt="logo" width="100"  height="auto" />
+  <br/>
+  <h3><b>Matric-Webapp</b></h3>
+</div>
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
 # Vet Clinic
 
 > In this branch of the project, I used a relational database to create the initial data structure for a vet clinic. I created a table to store animals' information, insert some data into it, and query it.
 
+## Built With
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">Postgres</a></li>
+    <li><a href="https://reactjs.org/">SQL</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Relational Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">Postgres SQL</a></li>
+  </ul>
+</details>
+
+## Live Demo
+
+[**See Project 🚀**](Coming Soon)
+
+## Screenshots 
+
+![Desktop Design](Coming Soon)
 
 ## Getting Started
 
