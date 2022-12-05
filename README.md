@@ -1,8 +1,36 @@
-# curriculum-databases-projects-template
+<div align="center">
+  <img src="https://res.cloudinary.com/dxsom7jmx/image/upload/v1670245965/Meta%20tags/murple_logo_rxik8f.png" alt="logo" width="100"  height="auto" />
+  <br/>
+  <h3><b>Matric-Webapp</b></h3>
+</div>
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
+# Vet Clinic
 
+> In this branch of the project, I used a relational database to create the initial data structure for a vet clinic. I created a table to store animals' information, insert some data into it, and query it.
+
+## Built With
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://www.w3schools.com/Sql/">SQL</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">Postgres SQL</a></li>
+  </ul>
+</details>
+
+## Live Demo
+
+[**See Project 🚀**](Coming Soon)
+
+## Screenshots 
+
+![Desktop Design](Coming Soon)
 
 ## Getting Started
 
@@ -15,17 +43,12 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ## Authors
 
-👤 **Author1**
+👤 **Justice Bajeri**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [Link to Github Profile](https://github.com/Strangeal)
+- Twitter: [Link to Twitter Profile](https://twitter.com/Str_angeal)
+- LinkedIn: [Link to LinkedIn Profile](https://www.linkedin.com/in/justice-bajeri-0b7211243/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
