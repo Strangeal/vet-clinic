@@ -11,15 +11,14 @@
 ## Built With
 
 <details>
-  <summary>Client</summary>
+  <summary>Server</summary>
   <ul>
-    <li><a href="https://reactjs.org/">Postgres</a></li>
-    <li><a href="https://reactjs.org/">SQL</a></li>
+    <li><a href="https://www.w3schools.com/Sql/">SQL</a></li>
   </ul>
 </details>
 
 <details>
-<summary>Relational Database</summary>
+<summary>Database</summary>
   <ul>
     <li><a href="https://www.postgresql.org/">Postgres SQL</a></li>
   </ul>
