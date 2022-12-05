@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./murple_logo.png" alt="logo" width="100"  height="auto" />
+  <img src="https://res.cloudinary.com/dxsom7jmx/image/upload/v1670245965/Meta%20tags/murple_logo_rxik8f.png" alt="logo" width="100"  height="auto" />
   <br/>
   <h3><b>Matric-Webapp</b></h3>
 </div>
