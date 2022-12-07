@@ -52,7 +52,7 @@ SELECT species, AVG(escape_attempts) FROM animals WHERE date_of_birth BETWEEN '1
 
 -- Join queries
 -- all animals owned by Melody Pond
-SELECT animals.owner_id, animals.name, owners.full_name, owners.id
+SELECT *
 FROM owners
 JOIN animals
 ON  animals.owner_id = owners.id
